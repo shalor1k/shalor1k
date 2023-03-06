@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<h1 align="center">Hi there, I'm Rodion
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!--
 **shalor1k/shalor1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
