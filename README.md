@@ -1,5 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi there, I'm Rodion👋</h1>
+<h3 align="center">Information security student, python programmer from Russia 🇷🇺</h3>
 <!--
 **shalor1k/shalor1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
